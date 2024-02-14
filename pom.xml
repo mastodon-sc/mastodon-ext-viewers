@@ -9,7 +9,7 @@
 
 	<groupId>cz.it4i.ulman.transfers</groupId>
 	<artifactId>mastodon-ext-viewers</artifactId>
-	<version>0.9.12-SNAPSHOT</version>
+	<version>0.9.12</version>
 
 	<organization>
 		<name>IT4Innovations</name>
@@ -63,7 +63,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/TBA</connection>
 		<developerConnection>scm:git:localhost:9999</developerConnection>
-		<tag>HEAD</tag>
+		<tag>mastodon-ext-viewers-0.9.12</tag>
 		<url>https://github.com/xulman/TomancakLab</url>
 	</scm>
 	<issueManagement>
